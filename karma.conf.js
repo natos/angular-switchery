@@ -73,5 +73,9 @@ module.exports = function(config) {
         concurrency: Infinity
     };
 
+    if (process.env.TRAVIS) {
+        configuration.browsers = ['Firefox'];
+    }
+
     config.set(configuration);
 }
