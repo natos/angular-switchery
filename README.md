@@ -2,7 +2,7 @@
 
 # Angular Switchery
 
-[Switchery](https://github.com/abpetkov/switchery) as Angular Directive.
+[Switchery](https://github.com/abpetkov/switchery) AngularJS Directive. [Switchery](https://github.com/abpetkov/switchery) is a simple component that helps you turn your default HTML checkbox inputs into beautiful iOS 7 style switches in just few simple steps. You can easily customize switches, so that they match your design perfectly.
 
 ## TODO
 
