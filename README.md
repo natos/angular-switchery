@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/natos/angular-switchery.svg?branch=master)
+
 # Angular Switchery
 
 [Switchery](https://github.com/abpetkov/switchery) as Angular Directive.
