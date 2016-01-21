@@ -26,7 +26,7 @@ The code of this directive was written by [Natan Santolo](http://www.natansantol
 
 The MIT License (MIT)
 
-Copyright (c) 2013-2015 Natan Santolo
+Copyright (c) 2016 Natan Santolo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
