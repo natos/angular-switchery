@@ -1,0 +1,25 @@
+{
+  "name": "angular-switchery",
+  "description": "Switchery angular directive",
+  "authors": [
+    "Natan Santolo <natan.santolo@gmail.com>"
+  ],
+  "main": "angular-switchery.js",
+  "license": "MIT",
+  "homepage": "https://github.com/natos/angular-switchery",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.0-build.4514+sha.b77e14b"
+  },
+  "devDependencies": {
+    "switchery": "~0.8.1",
+    "angular-mocks": "~1.4.9",
+    "angular-route": "~1.4.9"
+  }
+}
