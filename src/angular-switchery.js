@@ -45,7 +45,7 @@
                             // if needed create new instance
                             if (!_switch) {
                                 _switch = new window.Switchery($element[0], options);
-                                console.log('switcher created with options', options);
+                                // console.log('switcher created with options', options);
                             }
                             // save model state
                             _switch.element.checked = $scope.checked;
