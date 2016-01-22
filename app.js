@@ -15,7 +15,7 @@ $script([
 
 $script.ready('angular-bundle', function() {
     $script([
-            "../dist/angular-switchery.min.js",
+            "https://raw.githubusercontent.com/natos/angular-switchery/master/dist/angular-switchery.min.js",
             "https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular-route.min.js"
     ], 'angular-switchery');
 });
