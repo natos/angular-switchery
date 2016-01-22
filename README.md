@@ -18,6 +18,27 @@ var app = angular.module('myApp', ['angular.switchery']);
 <input type="checkbox" ng-switchery="{size: 'large', color: '#3ab1bb', secondaryColor: '#eeeeee'}">
 ```
 
+## Developers
+
+### Install
+
+```
+npm install
+bower intall
+```
+
+### Build
+
+```
+grunt
+```
+
+### Test
+
+```
+npm test
+```
+
 ## Credits
 
 The code of this directive was written by [Natan Santolo](http://www.natansantolo.com) and uses [Switchery](https://github.com/abpetkov/switchery) created by [Alexander Petkov](https://github.com/abpetkov)
