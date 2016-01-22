@@ -7,6 +7,10 @@
 
     'use strict';
 
+    if (!angular) {
+        throw('angular-switchery: AngularJS not found.');
+    }
+
     window.requestAnimFrame = (function() {
         return window.requestAnimationFrame ||
             window.webkitRequestAnimationFrame ||
