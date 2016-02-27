@@ -10,6 +10,12 @@
 
 ## Use
 
+Install with bower
+
+```
+bower install angular-switchery
+```
+
 ```js
 var app = angular.module('myApp', ['angular.switchery']);
 ```
